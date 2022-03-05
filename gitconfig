@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = njabulonkosi59@gmail.com
+	name = njabulo nkosi
